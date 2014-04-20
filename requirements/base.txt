@@ -1,2 +1,0 @@
-https://www.djangoproject.com/download/1.7b1/tarball/#egg=django
-Pillow==2.4.0
