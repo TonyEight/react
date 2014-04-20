@@ -1,4 +1,4 @@
-#-*- codings=utf-8 -*-
+# -*- coding: utf8 -*-
 from react.wsgi.base import *
 
 import os

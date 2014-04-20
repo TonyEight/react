@@ -1,4 +1,4 @@
-#-*- codings=utf-8 -*-
+# -*- coding: utf8 -*-
 """
 Django settings for react project.
 

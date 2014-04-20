@@ -1,4 +1,4 @@
-#-*- codings=utf-8 -*-
+# -*- coding: utf8 -*-
 from react.settings.base import *
 
 WSGI_APPLICATION = 'react.wsgi.prod.application'
