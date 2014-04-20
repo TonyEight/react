@@ -1,0 +1,9 @@
+bin
+local
+src
+lib
+include
+.*.*.swp
+~*.py
+*.pyc
+*.sublime-*
