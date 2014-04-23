@@ -1,2 +1,2 @@
-https://www.djangoproject.com/download/1.7b1/tarball/#egg=django
+git+https://github.com/django/django.git@master#egg=django
 Pillow==2.4.0

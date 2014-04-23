@@ -53,6 +53,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     # React apps
     'business',
+    'parameters',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -85,3 +86,5 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/dev/howto/static-files/
 
 STATIC_URL = '/static/'
+
+AUTH_USER_MODEL = 'auth.User'
